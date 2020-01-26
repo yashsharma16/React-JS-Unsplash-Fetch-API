@@ -1,6 +1,6 @@
 {
   "homepage": "https://yashsharma16.github.io/react-js-unsplash-fetch-api",
-  "name": "pics",
+  "name": "react-js-unsplash-fetch-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
